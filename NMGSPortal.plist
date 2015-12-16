@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://111.56.34.62/EEDSMobile_JT/NMGSPortal.ipa</string>
+					<string>http://10.16.0.105:7001/portalAppService/NMGSPortal.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.wide.NMGSPortal</string>
 				<key>bundle-version</key>
-				<string>4.0</string>
+				<string>6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>工商移动应用</string>
 				<key>title</key>
-				<string>工商移动应用宝</string>
+				<string>工商移动应用</string>
 			</dict>
 		</dict>
 	</array>
